@@ -1,0 +1,8 @@
+# build folders
+x64
+debug
+release
+
+# VS project files
+.vs
+*.vcx*
